@@ -1,4 +1,4 @@
-# 微信小程序 wepyjs 第三方图片懒加载组件
+# 微信小程序 wepyjs 第三方图片预加载组件
 
 ## 说明
 [wxapp-img-loader](https://github.com/o2team/wxapp-img-loader)只能用于小程序原生开发，因此需要一个适用于[wepy](https://github.com/wepyjs/wepy)使用的组件。

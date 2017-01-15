@@ -1,7 +1,7 @@
 {
   "name": "wepy-img-loader",
-  "version": "1.0.0",
-  "description": "images lazy loader",
+  "version": "1.0.1",
+  "description": "images pre loader component",
   "main": "img-loader.wpy",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
